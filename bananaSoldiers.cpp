@@ -13,4 +13,6 @@ main()
 	cout<<totalC-n;
 	else
 	cout<<"0  in dev branch trying for pull request";
+
+	
 } 
