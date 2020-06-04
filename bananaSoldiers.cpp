@@ -12,5 +12,5 @@ main()
 	if(totalC>n)
 	cout<<totalC-n;
 	else
-	cout<<"0  in dev branch trying for pull req";
+	cout<<"0  in master branch trying for pull req";
 } 
