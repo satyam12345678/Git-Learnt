@@ -13,7 +13,7 @@ main()
 	cout<<totalC-n;
 	else
 
-	cout<<"0  in dev branch trying for pull request take 2";
+	cout<<"0  in dev branch trying for pull request take 2 for dev only";
 
 
 	
