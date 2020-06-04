@@ -12,5 +12,5 @@ main()
 	if(totalC>n)
 	cout<<totalC-n;
 	else
-	cout<<"0";
+	cout<<"0  ";
 } 
