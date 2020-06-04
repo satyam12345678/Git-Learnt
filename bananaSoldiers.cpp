@@ -12,7 +12,9 @@ main()
 	if(totalC>n)
 	cout<<totalC-n;
 	else
-	cout<<"0  in dev branch trying for pull request trying git pull";
+
+	cout<<"0  in dev branch trying for pull request take 2";
+
 
 	
 } 
